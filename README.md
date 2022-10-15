@@ -1,18 +1,16 @@
-## Getting Started
+Hey Folks 😎, Welcome to my core java git repository !!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+In this repo, I have coded all the fundamental concepts of core java.
 
-## Folder Structure
+Follow this repo, according to this structure as mention below:
 
-The workspace contains two folders by default, where:
+1. fundamentals
+2. control structures
+3. arrays
+4. methods
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+You can also clone this repo, to practice core java from your end
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Feel free to give feedbacks to me, so that I can make changes in this repo for effective learning
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Happy Coding 🙂!! 
