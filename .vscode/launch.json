@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CopyingArray",
+            "request": "launch",
+            "mainClass": "com.java.arrays.CopyingArray",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiDArrays",
+            "request": "launch",
+            "mainClass": "com.java.arrays.MultiDArrays",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleDArrays",
+            "request": "launch",
+            "mainClass": "com.java.arrays.SingleDArrays",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArithmeticOperators",
+            "request": "launch",
+            "mainClass": "com.java.fundamentals.ArithmeticOperators",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch BitwiseOperator",
+            "request": "launch",
+            "mainClass": "com.java.fundamentals.BitwiseOperator",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataTypes",
+            "request": "launch",
+            "mainClass": "com.java.fundamentals.DataTypes",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch GarbageCollection",
+            "request": "launch",
+            "mainClass": "com.java.fundamentals.GarbageCollection",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "com.java.fundamentals.HelloWorld",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch LogicalOperators",
+            "request": "launch",
+            "mainClass": "com.java.fundamentals.LogicalOperators",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReferenceVariable",
+            "request": "launch",
+            "mainClass": "com.java.fundamentals.ReferenceVariable",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch RelationalOperator",
+            "request": "launch",
+            "mainClass": "com.java.fundamentals.RelationalOperator",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShiftOperators",
+            "request": "launch",
+            "mainClass": "com.java.fundamentals.ShiftOperators",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypeCasting",
+            "request": "launch",
+            "mainClass": "com.java.fundamentals.TypeCasting",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Variables",
+            "request": "launch",
+            "mainClass": "com.java.fundamentals.Variables",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch InheritanceDemo",
+            "request": "launch",
+            "mainClass": "com.java.inheritance.InheritanceDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodOveriding",
+            "request": "launch",
+            "mainClass": "com.java.inheritance.MethodOveriding",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuperKeywdDemo",
+            "request": "launch",
+            "mainClass": "com.java.inheritance.SuperKeywdDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        }
+    ]
+}
