@@ -6,6 +6,47 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ExceptionDemo",
+            "request": "launch",
+            "mainClass": "com.java.exceptionhandling.ExceptionDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceDemo",
+            "request": "launch",
+            "mainClass": "com.java.interfaced.InterfaceDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractClassDemo",
+            "request": "launch",
+            "mainClass": "com.java.abstracted.AbstractClassDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch FinalizeDemo",
+            "request": "launch",
+            "mainClass": "com.java.inheritance.FinalizeDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch ObjectCloning",
+            "request": "launch",
+            "mainClass": "com.java.inheritance.ObjectCloning",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
