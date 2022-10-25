@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FileDemo2",
+            "request": "launch",
+            "mainClass": "com.java.io.FileDemo2",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileDemo",
+            "request": "launch",
+            "mainClass": "com.java.io.FileDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomExceptionDemo",
+            "request": "launch",
+            "mainClass": "com.java.exceptionhandling.CustomExceptionDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch TryCatchDemo2",
+            "request": "launch",
+            "mainClass": "com.java.exceptionhandling.TryCatchDemo2",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThrowDemo",
+            "request": "launch",
+            "mainClass": "com.java.exceptionhandling.ThrowDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch TryCatchDemo",
+            "request": "launch",
+            "mainClass": "com.java.exceptionhandling.TryCatchDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
             "name": "Launch ExceptionDemo",
             "request": "launch",
             "mainClass": "com.java.exceptionhandling.ExceptionDemo",

@@ -21,6 +21,7 @@ class ClassA{
 public class FinalizeDemo {
     public static void main(String[] args) {
         ClassA obj = new ClassA("piyush", 12);
+        System.out.println(obj);
         obj = null;
         System.out.println("garbage collector called");
         System.gc();
