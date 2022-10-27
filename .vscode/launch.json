@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DeserializeDemo",
+            "request": "launch",
+            "mainClass": "com.java.io.DeserializeDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SerializeDemo",
+            "request": "launch",
+            "mainClass": "com.java.io.SerializeDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileIoDemo",
+            "request": "launch",
+            "mainClass": "com.java.io.FileIoDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputStreamDemo",
+            "request": "launch",
+            "mainClass": "com.java.io.InputStreamDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch OutputStreamDemo",
+            "request": "launch",
+            "mainClass": "com.java.io.OutputStreamDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileDemo3",
+            "request": "launch",
+            "mainClass": "com.java.io.FileDemo3",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
             "name": "Launch FileDemo2",
             "request": "launch",
             "mainClass": "com.java.io.FileDemo2",
