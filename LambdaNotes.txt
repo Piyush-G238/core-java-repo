@@ -1,0 +1,22 @@
+Lambda denotes an anonymous class/function
+
+1. No name
+2. No modifier
+3. No return type
+
+Benefits of Lambda
+1. reduces lines of code
+2. sequential and parallel execution support by passing behavior as an argument in methods
+3. To call APIs very effectively
+4. To Write more readable, maintainable and concise code
+5. But it is only used with functional interface
+
+Important rules of lambda
+1. If body of lambda expression contain only one statement then curly braces are optional.
+2. Java compiler also inter the type of variable passed in arguments, hence type is optional.
+
+functional interface
+If the interface contains only one abstract methods then it is functional interface.
+Example: Runnable, Callable, Comparable etc.
+
+To call lambda expression we require functional interface.

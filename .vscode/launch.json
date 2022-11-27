@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ComparatorDemo",
+            "request": "launch",
+            "mainClass": "com.java.collections.ComparatorDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComparableDemo",
+            "request": "launch",
+            "mainClass": "com.java.collections.ComparableDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaExp3",
+            "request": "launch",
+            "mainClass": "com.java.lambdaExp.LambdaExp3",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaExp2",
+            "request": "launch",
+            "mainClass": "com.java.lambdaExp.LambdaExp2",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaExp1",
+            "request": "launch",
+            "mainClass": "com.java.lambdaExp.LambdaExp1",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaExp0",
+            "request": "launch",
+            "mainClass": "com.java.lambdaExp.LambdaExp0",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetDemo",
+            "request": "launch",
+            "mainClass": "com.java.collections.SetDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDemo",
+            "request": "launch",
+            "mainClass": "com.java.collections.ArrayListDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReplaceMethodDemo",
+            "request": "launch",
+            "mainClass": "com.java.regex.ReplaceMethodDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegexDemo3",
+            "request": "launch",
+            "mainClass": "com.java.regex.RegexDemo3",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch IndexMethodDemo",
+            "request": "launch",
+            "mainClass": "com.java.regex.IndexMethodDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegexDemo2",
+            "request": "launch",
+            "mainClass": "com.java.regex.RegexDemo2",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegexDemo",
+            "request": "launch",
+            "mainClass": "com.java.regex.RegexDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch RunnableDemo",
+            "request": "launch",
+            "mainClass": "com.java.multithreading.RunnableDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadClassDemo",
+            "request": "launch",
+            "mainClass": "com.java.multithreading.ThreadClassDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch CollectionDemo",
+            "request": "launch",
+            "mainClass": "com.java.collections.CollectionDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
             "name": "Launch DeserializeDemo",
             "request": "launch",
             "mainClass": "com.java.io.DeserializeDemo",
