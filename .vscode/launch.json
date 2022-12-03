@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CharacterClassDemo",
+            "request": "launch",
+            "mainClass": "com.java.regex.CharacterClassDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
             "name": "Launch MatcherMethodsDemo",
             "request": "launch",
             "mainClass": "com.java.regex.MatcherMethodsDemo",
