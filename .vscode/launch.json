@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MatcherMethodsDemo",
+            "request": "launch",
+            "mainClass": "com.java.regex.MatcherMethodsDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternClassDemo",
+            "request": "launch",
+            "mainClass": "com.java.regex.PatternClassDemo",
+            "projectName": "core-java-repo_a3ec440c"
+        },
+        {
+            "type": "java",
             "name": "Launch ComparatorDemo",
             "request": "launch",
             "mainClass": "com.java.collections.ComparatorDemo",
